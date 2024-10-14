@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+- 3x AWS Certified 
 - 🌱 I’m currently learning AWS, Typescript
 - 🤔 I’m looking for help with Fullstack / Infrastructure
 - 💬 Ask me about AWS
@@ -13,6 +14,8 @@
   <img align="center" alt="Victor-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
   <img align="center" alt="Victor-cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-line.svg">
   <img align="center" alt="Victor-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
+  <img align="center" alt="Victor-aws" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+
 
   
 </div>

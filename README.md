@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning AWS, Typescript
 - 🤔 I’m looking for help with Fullstack / Infrastructure
 - 💬 Ask me about AWS
-- 📫 How to reach me: victor.guedes.08@gmail.com
 
 - <div style="display: inline_block"><br>
   <img align="center" alt="Victor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
